@@ -6,5 +6,6 @@ public class Main {
         System.out.println("GIT");
         System.out.println("Ты сможешь");
         System.out.println("HAPPY");
+        System.out.println("JAVA");
     }
 }
