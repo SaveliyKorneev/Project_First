@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Ты сможешь");
         System.out.println("HAPPY");
         System.out.println("JAVA");
+        System.out.println("!!!");
     }
 }
